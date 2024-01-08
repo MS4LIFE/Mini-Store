@@ -50,5 +50,6 @@
   },
   "devDependencies": {
     "gh-pages": "^6.1.1"
-  }
+  },
+  "homepage": "https://MS4LIFE.github.io/Mini-Store"
 }
