@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/Mini-Store/static/css/main.92d3ceb0.css",
+    "main.js": "/Mini-Store/static/js/main.6995c211.js",
+    "static/media/shopping-hero-image.jpg": "/Mini-Store/static/media/shopping-hero-image.41f04f965f1c47c94cee.jpg",
+    "static/media/Online-Shopping-1.jpg": "/Mini-Store/static/media/Online-Shopping-1.9f0237f87445adc8f001.jpg",
+    "static/media/black-friday-sale.webp": "/Mini-Store/static/media/black-friday-sale.e02300ad20024d86a9b6.webp",
+    "static/media/logo.png": "/Mini-Store/static/media/logo.d819103171782d34239e.png",
+    "static/media/staff.webp": "/Mini-Store/static/media/staff.2aead245f5cdf43ddee4.webp",
+    "index.html": "/Mini-Store/index.html",
+    "main.92d3ceb0.css.map": "/Mini-Store/static/css/main.92d3ceb0.css.map",
+    "main.6995c211.js.map": "/Mini-Store/static/js/main.6995c211.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.92d3ceb0.css",
+    "static/js/main.6995c211.js"
+  ]
+}
